@@ -12,4 +12,5 @@ this repository is for machine learning class in Chung-Ang University, Korea.
 |  Assignment 07  |  Logistic regression for a binary classification with a regularization |
 |  Assignment 08  |  Forward Propagation in the Neural Networks |
 |  Assignment 09  |  Multi-label classification using neural networks |
+|  Assignment 10  |  Multi-label classification using neural networks with a regularization |
 
